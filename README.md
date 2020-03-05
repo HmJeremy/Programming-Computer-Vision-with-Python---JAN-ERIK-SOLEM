@@ -1,1 +1,3 @@
-# Programming-Computer-Vision-with-Python---JAN-ERIK-SOLEM
+# 
+
+ # Book review of Programming Computer Vision with Python by JAN ERIK SOLEM
